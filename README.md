@@ -1,62 +1,72 @@
-::: {align="center"}
-# Hey, I'm Robin Harman 👋
 
-### Developer • Full-Stack Engineering • Creative Problem Solving
+# 👋 Hey, I'm Robin Harman
 
-I enjoy exploring technology, building useful projects, and turning
-ideas into working software.
+### 💻 Developer · Full-Stack Engineering · Creative Problem Solving
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://robin-haman.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Robinhaman-181717?style=for-the-badge&logo=github)](https://github.com/Robinhaman)
-:::
+I enjoy exploring technology, building useful projects, and turning ideas into working software.
 
-------------------------------------------------------------------------
+<p>
+  <a href="https://robin-haman.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-2563EB?style=for-the-badge" alt="Portfolio">
+  </a>
+  <a href="https://github.com/Robinhaman">
+    <img src="https://img.shields.io/badge/GitHub-Robinhaman-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</p>
 
-## 👨‍💻 About Me
+</div>
 
--   👋 Hi, I'm **Robin Harman**.
--   💻 Interested in software development and full-stack engineering.
--   🛠️ I like building projects that are practical, creative, and
-    useful.
--   🌱 Always learning, experimenting, and improving my skills.
--   🚀 Explore my work on my [portfolio
-    website](https://robin-haman.vercel.app/).
+---
 
-## 🧰 Technologies & Tools
+## 🧑‍💻 About Me
 
-I'm continually learning and expanding my toolkit. This section can be
-updated as you add technologies to your projects.
+- 👋 My name is **Robin Harman**.
+- 🚀 I'm interested in software development and full-stack engineering.
+- 🧩 I enjoy creating practical projects and exploring new ideas.
+- 🌱 I'm always learning, experimenting, and improving my skills.
+- 🌐 Take a look at my work: **[My Portfolio](https://robin-haman.vercel.app/)**
 
-```{=html}
-<!-- Add only the technologies you actively use. Example badges:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+## 🛠️ Tech Stack
+
+I'm continually growing my skills and exploring tools that help me build better projects.
+
+> **Tip:** Add badges below for the languages, frameworks, and tools you actually use.
+
+<!-- Replace this comment with technology badges when you're ready. For example:
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
 -->
-```
-## 🚧 What I'm Working On
 
--   🤖 **Discord Reminder Bot** --- a project focused on scheduling and
-    delivering reminders through Discord.
--   💡 Exploring ideas for useful tools and software projects.
+## 🚧 Featured Project
 
-Check my repositories for the latest updates:
-[github.com/Robinhaman](https://github.com/Robinhaman).
+### 🤖 Discord Reminder Bot
 
-## 🌐 Find Me Online
+A project focused on scheduling reminders and delivering them through Discord.
 
--   🌍 **Portfolio:**
-    [robin-haman.vercel.app](https://robin-haman.vercel.app/)
--   💻 **GitHub:** [@Robinhaman](https://github.com/Robinhaman)
+- ⏰ Schedule reminders
+- 💬 Deliver reminders in Discord
+- 🔧 Built as a learning and development project
 
-```{=html}
-<!-- Add other public profiles or a professional contact method here if you'd like. -->
-```
+Explore more projects in my **[GitHub repositories](https://github.com/Robinhaman?tab=repositories)**.
 
-------------------------------------------------------------------------
+## 📫 Connect With Me
 
-::: {align="center"}
-*Thanks for visiting my profile! Feel free to explore my repositories.*
-:::
+| Platform | Link |
+|---|---|
+| 🌐 Portfolio | [robin-haman.vercel.app](https://robin-haman.vercel.app/) |
+| 💻 GitHub | [@Robinhaman](https://github.com/Robinhaman) |
+
+---
+
+<div align="center">
+
+### ✨ Thanks for stopping by!
+
+*Feel free to explore my repositories and follow along as I build and learn.*
+
+</div>
